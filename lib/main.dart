@@ -61,7 +61,7 @@ void main() {
               height: 10,
             ),
             Text(
-              "powered by Mohammed Hossam "\"_('o')_/",
+              "powered by Mohammed Hossam _('o')_/",
               style: TextStyle(color: Colors.red[500], fontSize: 25),
             )
           ],
